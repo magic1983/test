@@ -21,7 +21,7 @@ android {
         release {
             keyAlias 'mobi.usage.appbackup.alias'//秘钥别名
             keyPassword 'xyABR123'//秘钥密码
-            storeFile file('/Users/jinguo/Downloads/SOURCE_CODE/abr_old/abr_old.keystore')//秘钥库位置
+            storeFile file('/home/worker/Downloads/abr_old.keystore')//秘钥库位置
             storePassword 'xyABR123'//秘钥库密码
         }
     }
