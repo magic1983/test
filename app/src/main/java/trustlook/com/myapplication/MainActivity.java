@@ -22,12 +22,12 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Reple wid3344dd33eeeee333333344tow033333308ti444on", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Reple wid333344dd33eeeee333333344tow033333308ti444on", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
     }
- 
+
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
